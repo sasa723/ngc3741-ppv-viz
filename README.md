@@ -1,5 +1,5 @@
 # NGC 3741 - PPV - VIZ
----
+
 ### A 3D scientific visualization and animation of NGC 3741 HI 21-cm observations in position-position-velocity space using [VLA-ANGST survey data](https://science.nrao.edu/science/surveys/vla-angst), python and Blender.
 
 > Modern astronomy is data rich. As the volume and dimensionality of data grows, finding new ways to interpret and explore data becomes more prevalent. **This project presents three-dimensional visualization of a position-position-velocity cube utilizing the open-source software Blender after a smooth-and-mask procedure is applied to isolate galaxy emission.** Viewing data typically communicated through numbers and tables in a three-dimensional space can aid in revealing kinematic structures, spatial patterns and anomalies.
