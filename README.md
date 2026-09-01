@@ -21,14 +21,14 @@ The cube is a position–position–velocity (PPV) data product. Its axes corres
 - `NGC3741_moment1.fits`
 - `NGC3741_velocity_dispersion.fits`
 
-![data products created](dataProductsDisplayed.png)
+![data products created](..figures/dataProductsDisplayed.png)
 
 *\*Masked cube and boolean emission mask not shown above*
 
 ### 3D Scientific Visualization and Animation
 The project includes a short film animated and rendered with Blender. The preparation of the final masked cube for export to Blender is detailed in `03_ngc3741_data_export.ipynb`.
 
-![GIF from short film](vizGifThumbnail.gif)
+![GIF from short film](..figures/vizGifThumbnail.gif)
 
 *A short GIF from the visualization; emission node strength and color mapping corresponding to an `intensity_display` value*
 
