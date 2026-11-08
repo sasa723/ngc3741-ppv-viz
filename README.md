@@ -39,6 +39,8 @@ The project includes a short film animated and rendered with Blender. The prepar
 The `numpy` library is required to work with `.npz` files.
 The files contain 673200 points and 300000 points respectively. 
 
+Film: [LINK](https://drive.google.com/file/d/1rRQGfg1Aryhw4WiX5nZw_GkgxXqIskYo/view?usp=sharing)
+
 ## Tools
 #### Data Analysis
 - Python
